@@ -3,7 +3,7 @@ RaspberryPiの初期設定用
 
 ## 使い方
 ```
-git clone git@github.com:k4916826/raspi-setup.git
+https://github.com/k4916826/raspi-setup.git
 
 cd raspi-setup
 sh step00-chrepo.sh
